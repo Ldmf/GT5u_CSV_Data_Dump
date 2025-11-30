@@ -1,0 +1,242 @@
+id,stackName,metaID
+6,Wetware Lifesupport Circuit Board,32006
+7,Plastic Circuit Board,32007
+8,Bio Circuit Board,32008
+11,SMD Resistor,32011
+12,Glass Tube,32012
+14,Small Coil,32014
+16,SMD Diode,32016
+18,SMD Transistor,32018
+20,SMD Capacitor,32020
+21,Glass Fiber,32021
+22,Petri Dish,32022
+23,Reinforced Glass Tube,32023
+24,Advanced SMD Resistor,32024
+25,Advanced SMD Diode,32025
+26,Advanced SMD Transistor,32026
+27,Advanced SMD Capacitor,32027
+30,Monocrystalline Silicon Boule,32030
+31,Phosphorus doped Monocrystalline Silicon Boule,32031
+32,Naquadah doped Monocrystalline Silicon Boule,32032
+33,Wafer,32033
+34,Phosphorus doped Wafer,32034
+35,Naquadah doped Wafer,32035
+36,Integrated Logic Circuit (Wafer),32036
+37,Integrated Logic Circuit,32037
+38,Random Access Memory Chip (Wafer),32038
+39,Random Access Memory Chip,32039
+40,NAND Memory Chip (Wafer),32040
+41,NAND Memory Chip,32041
+42,NOR Memory Chip (Wafer),32042
+43,NOR Memory Chip,32043
+44,Central Processing Unit (Wafer),32044
+45,Central Processing Unit,32045
+46,SoC Wafer,32046
+47,SoC,32047
+48,ASoC Wafer,32048
+49,ASoC,32049
+50,PIC Wafer,32050
+51,Power IC,32051
+52,HPIC Wafer,32052
+53,High Power IC,32053
+54,NanoCPU Wafer,32054
+55,Nanocomponent Central Processing Unit,32055
+56,QBit Wafer,32056
+57,QBit Processing Unit,32057
+58,UHPIC Wafer,32058
+59,Ultra High Power IC,32059
+60,Simple SoC Wafer,32060
+61,Simple SoC,32061
+62,ULPIC Wafer,32062
+63,Ultra Low Power IC,32063
+64,LPIC Wafer,32064
+65,Low Power IC,32065
+68,Raw Advanced Crystal Chip,32068
+69,Raw Crystal Chip,32069
+70,Crystal Processing Unit,32070
+71,Crystal SoC,32071
+72,Neuro Processing Unit,32072
+73,Stemcells,32073
+74,Raw Crystal Chip Parts,32074
+75,NAND Chip,32075
+76,Biocells,32076
+77,Bio Processing Unit,32077
+78,Microprocessor,32078
+79,Good Integrated Circuit,32079
+80,Integrated Processor,32080
+82,Nano Processor,32082
+83,Nano Assembly,32083
+84,Nano Supercomputer,32084
+85,Quantum Processor,32085
+86,Quantum Assembly,32086
+87,Quantum Supercomputer,32087
+88,Quantum Mainframe,32088
+89,Crystal Processor,32089
+90,Crystal Supercomputer,32090
+91,Crystal Mainframe,32091
+92,Wetware Processor,32092
+93,Wetware Assembly,32093
+94,Wetware Supercomputer,32094
+95,Wetware Mainframe,32095
+96,Crystal Assembly,32096
+97,Bioware Processor,32097
+98,Bioware Assembly,32098
+99,Bioware Supercomputer,32099
+100,Circuit Board,32100
+101,Good Circuit Board,32101
+102,Advanced Circuit Board,32102
+103,More Advanced Circuit Board,32103
+104,Elite Circuit Board,32104
+105,Extreme Wetware Lifesupport Circuit Board,32105
+106,Plastic Circuit Board,32106
+107,Ultra Bio Mutated Circuit Board,32107
+110,Tube Wires,32110
+120,Bioware Mainframe,32120
+130,Solar Panel (UHV),32130
+131,Solar Panel (UEV),32131
+132,Solar Panel (UIV),32132
+140,Ultra Low Voltage Coil,32140
+141,Low Voltage Coil,32141
+142,Medium Voltage Coil,32142
+143,High Voltage Coil,32143
+144,Extreme Voltage Coil,32144
+145,Insane Voltage Coil,32145
+146,Ludicrous Voltage Coil,32146
+147,ZPM Voltage Coil,32147
+148,Ultimate Voltage Coil,32148
+149,Highly Ultimate Voltage Coil,32149
+150,Europium doped Monocrystalline Silicon Boule,32150
+151,Europium doped Wafer,32151
+152,Americium doped Monocrystalline Silicon Boule,32152
+153,Americium doped Wafer,32153
+154,Optical Processor,32154
+155,Optical Assembly,32155
+156,Optical Supercomputer,32156
+157,Optical Mainframe,32157
+160,NPIC Wafer,32160
+161,Nano Power IC,32161
+162,PPIC Wafer,32162
+163,Piko Power IC,32163
+164,QPIC Wafer,32164
+165,Quantum Power IC,32165
+166,Exotic Processor,32166
+167,Exotic Assembly,32167
+168,Exotic Supercomputer,32168
+169,Exotic Mainframe,32169
+170,Cosmic Processor,32170
+171,Cosmic Assembly,32171
+172,Cosmic Supercomputer,32172
+173,Cosmic Mainframe,32173
+174,Temporally Transcendent Processor,32174
+175,Temporally Transcendent Assembly,32175
+176,Temporally Transcendent Supercomputer,32176
+177,Temporally Transcendent Mainframe,32177
+178,Optical SMD Resistor,32178
+179,Optical SMD Diode,32179
+180,Optical SMD Transistor,32180
+181,Optical SMD Capacitor,32181
+182,SMD Inductor,32182
+183,Advanced SMD Inductor,32183
+184,Optical SMD Inductor,32184
+188,Living Bio Wafer,32188
+189,Living Bio Chip,32189
+190,Gallium Arsenide Crystal,32190
+191,Small Gallium Arsenide Crystal,32191
+192,Kevlar Fiber,32192
+193,Woven Kevlar,32193
+194,Spinneret,32194
+199,Upgrade Frame,32199
+200,Acceleration Upgrade x2,32200
+201,Acceleration Upgrade x4,32201
+202,Acceleration Upgrade x8,32202
+203,Acceleration Upgrade x16,32203
+204,Acceleration Upgrade x32,32204
+205,Acceleration Upgrade x64,32205
+206,Acceleration Upgrade x128,32206
+207,Acceleration Upgrade x256,32207
+208,Upgraded Acceleration Upgrade x256,32208
+209,Production Upgrade,32209
+210,Plains Emulation Upgrade,32210
+211,Light Upgrade,32211
+212,Flowering Upgrade,32212
+213,Winter Emulation Upgrade,32213
+214,Dryer Upgrade,32214
+215,Automation Upgrade,32215
+216,Humidifier Upgrade,32216
+217,HELL Emulation Upgrade,32217
+218,Pollen Scrubber Upgrade,32218
+219,Desert Emulation Upgrade,32219
+220,Cooler Upgrade,32220
+221,Lifespan Upgrade,32221
+222,Seal Upgrade,32222
+223,Genetic Stabilizer Upgrade,32223
+224,Jungle Emulation Upgrade,32224
+225,Territory Upgrade,32225
+226,Ocean Emulation Upgrade,32226
+227,Open Sky Upgrade,32227
+228,Heater Upgrade,32228
+229,Sieve Upgrade,32229
+230,Nuclear Star,32230
+231,Night Upgrade,32231
+232,Metrics Transmitter Cover,32232
+233,Activated Carbon Filter Mesh,32233
+234,Empty Quark Release Catalyst Housing,32234
+235,Up-Quark Releasing Catalyst,32235
+236,Down-Quark Releasing Catalyst,32236
+237,Strange-Quark Releasing Catalyst,32237
+238,Charm-Quark Releasing Catalyst,32238
+239,Bottom-Quark Releasing Catalyst,32239
+240,Top-Quark Releasing Catalyst,32240
+241,Unaligned Quark Releasing Catalyst,32241
+242,Heavy Hellish Mud,32242
+243,Netherite Scrap Seed,32243
+244,Brittle Netherite Scrap,32244
+245,Netherite Nanoparticles,32245
+246,Intensely Bonded Netherite Nanoparticles,32246
+247,Hot Netherite Scrap,32247
+248,Prismarine Precipitate,32248
+249,Prismatic Crystal,32249
+250,Radiation-Proof Prismatic Naquadah Composite Sheet,32250
+251,Naquarite Universal Insulator Foil,32251
+721,Optically Enriched Crystalline Boule,32721
+722,Photonically Prepared Wafer,32722
+723,Photonically Enhanced Wafer,32723
+724,Raw Exposed Optical Chip,32724
+725,Optically Compatible Memory,32725
+726,Optically Perfected CPU,32726
+727,Optical CPU Containment Housing,32727
+728,Optical Circuit Board,32728
+729,White Dwarf Extruder Shape (Plate),32729
+730,White Dwarf Extruder Shape (Rod),32730
+731,White Dwarf Extruder Shape (Bolt),32731
+732,White Dwarf Extruder Shape (Ring),32732
+733,White Dwarf Extruder Shape (Cell),32733
+734,White Dwarf Extruder Shape (Ingot),32734
+735,White Dwarf Extruder Shape (Wire),32735
+736,White Dwarf Extruder Shape (Casing),32736
+737,White Dwarf Extruder Shape (Tiny Pipe),32737
+738,White Dwarf Extruder Shape (Small Pipe),32738
+739,White Dwarf Extruder Shape (Normal Pipe),32739
+740,White Dwarf Extruder Shape (Large Pipe),32740
+741,White Dwarf Extruder Shape (Huge Pipe),32741
+742,White Dwarf Extruder Shape (Block),32742
+743,White Dwarf Extruder Shape (Sword Blade),32743
+744,White Dwarf Extruder Shape (Pickaxe Head),32744
+745,White Dwarf Extruder Shape (Shovel Head),32745
+746,White Dwarf Extruder Shape (Axe Head),32746
+747,White Dwarf Extruder Shape (Hoe Head),32747
+748,White Dwarf Extruder Shape (Hammer Head),32748
+749,White Dwarf Extruder Shape (File Head),32749
+750,White Dwarf Extruder Shape (Saw Blade),32750
+751,White Dwarf Extruder Shape (Gear),32751
+752,White Dwarf Extruder Shape (Bottle),32752
+753,White Dwarf Extruder Shape (Rotor),32753
+754,White Dwarf Extruder Shape (Small Gear),32754
+755,White Dwarf Extruder Shape (Turbine Blade),32755
+756,White Dwarf Extruder Shape (Drill Head),32756
+757,Timepiece,32757
+758,Transdimensional Alignment Matrix,32758
+759,Thermal Superconductor,32759
+760,Relativistic Heat Capacitor,32760
+761,Phononic Seed Crystal,32761
+762,Harmonic Compound,32762

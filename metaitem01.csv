@@ -1,0 +1,443 @@
+id,stackName,metaID
+0,Copper GT Credit,32000
+1,Cupronickel GT Credit,32001
+2,Silver GT Credit,32002
+3,Gold GT Credit,32003
+4,Platinum GT Credit,32004
+5,Osmium GT Credit,32005
+6,Naquadah GT Credit,32006
+7,Neutronium GT Credit,32007
+8,Ancient Gold Coin,32008
+9,Doge Coin,32009
+10,Chocolate Coin,32010
+11,Industrial Copper Credit,32011
+13,Industrial Silver Credit,32013
+14,Industrial Gold Credit,32014
+15,Industrial Platinum Credit,32015
+16,Industrial Osmium Credit,32016
+17,Electric Motor (UIV),32017
+18,Electric Motor (UMV),32018
+19,Electric Motor (UXV),32019
+20,Electric Motor (MAX),32020
+21,Electric Piston (UIV),32021
+22,Electric Piston (UMV),32022
+23,Electric Piston (UXV),32023
+24,Electric Piston (MAX),32024
+25,Electric Pump (UIV),32025
+26,Electric Pump (UMV),32026
+27,Electric Pump (UXV),32027
+28,Electric Pump (MAX),32028
+29,Conveyor Module (UIV),32029
+30,Conveyor Module (UMV),32030
+31,Conveyor Module (UXV),32031
+32,Conveyor Module (MAX),32032
+33,Robot Arm (UIV),32033
+34,Robot Arm (UMV),32034
+35,Robot Arm (UXV),32035
+36,Robot Arm (MAX),32036
+37,Emitter (UIV),32037
+38,Emitter (UMV),32038
+39,Emitter (UXV),32039
+40,Emitter (MAX),32040
+41,Sensor (UIV),32041
+42,Sensor (UMV),32042
+43,Sensor (UXV),32043
+44,Sensor (MAX),32044
+45,Field Generator (UIV),32045
+46,Field Generator (UMV),32046
+47,Field Generator (UXV),32047
+48,Field Generator (MAX),32048
+49,Fluid Regulator (UHV),32049
+50,Fluid Regulator (UEV),32050
+51,Fluid Regulator (UIV),32051
+52,Fluid Regulator (UMV),32052
+53,Fluid Regulator (UXV),32053
+54,Fluid Regulator (MAX),32054
+81,NAND Chip Array,32081
+100,Iron Minecart Wheels,32100
+101,Steel Minecart Wheels,32101
+110,Compressed Fireclay,32110
+111,Firebrick,32111
+145,Insanely Ultimate Battery,32145
+146,Mega Ultimate Battery,32146
+270,Filtered Conveyor Cover (Export),32270
+271,Filtered Conveyor Cover (Import),32271
+272,Fluid Limiter Cover,32272
+300,Empty Shape Plate,32300
+301,Mold (Plate),32301
+302,Mold (Casing),32302
+303,Mold (Gear),32303
+304,Mold (Coinage),32304
+305,Mold (Bottle),32305
+306,Mold (Ingot),32306
+307,Mold (Ball),32307
+308,Mold (Block),32308
+309,Mold (Nuggets),32309
+310,Mold (Buns),32310
+311,Mold (Bread),32311
+312,Mold (Baguette),32312
+313,Mold (Cylinder),32313
+314,Mold (Anvil),32314
+315,Mold (Name),32315
+316,Mold (Arrow Head),32316
+317,Mold (Small Gear),32317
+318,Mold (Rod),32318
+319,Mold (Bolt),32319
+320,Mold (Round),32320
+321,Mold (Screw),32321
+322,Mold (Ring),32322
+323,Mold (Long Rod),32323
+324,Mold (Rotor),32324
+325,Mold (Turbine Blade),32325
+326,Mold (Tiny Pipe),32326
+327,Mold (Small Pipe),32327
+328,Mold (Normal Pipe),32328
+329,Mold (Large Pipe),32329
+330,Mold (Huge Pipe),32330
+331,Mold (Drill Head),32331
+332,Steam Regulator (LV),32332
+333,Steam Regulator (MV),32333
+334,Steam Regulator (HV),32334
+335,Steam Regulator (EV),32335
+336,Steam Regulator (IV),32336
+345,Iron Electromagnet,32345
+346,Steel Electromagnet,32346
+347,Neodymium Electromagnet,32347
+348,§eSamarium Electromagnet,32348
+349,§aTengam Electromagnet,32349
+350,Extruder Shape (Plate),32350
+351,Extruder Shape (Rod),32351
+352,Extruder Shape (Bolt),32352
+353,Extruder Shape (Ring),32353
+354,Extruder Shape (Cell),32354
+355,Extruder Shape (Ingot),32355
+356,Extruder Shape (Wire),32356
+357,Extruder Shape (Casing),32357
+358,Extruder Shape (Tiny Pipe),32358
+359,Extruder Shape (Small Pipe),32359
+360,Extruder Shape (Normal Pipe),32360
+361,Extruder Shape (Large Pipe),32361
+362,Extruder Shape (Huge Pipe),32362
+363,Extruder Shape (Block),32363
+364,Extruder Shape (Sword Blade),32364
+365,Extruder Shape (Pickaxe Head),32365
+366,Extruder Shape (Shovel Head),32366
+367,Extruder Shape (Axe Head),32367
+368,Extruder Shape (Hoe Head),32368
+369,Extruder Shape (Hammer Head),32369
+370,Extruder Shape (File Head),32370
+371,Extruder Shape (Saw Blade),32371
+372,Extruder Shape (Gear),32372
+373,Extruder Shape (Bottle),32373
+374,Extruder Shape (Rotor),32374
+375,Extruder Shape (Small Gear),32375
+376,Extruder Shape (Turbine Blade),32376
+377,Extruder Shape (Drill Head),32377
+380,Basic Item Holder,32380
+381,Good Item Holder,32381
+382,Advanced Item Holder,32382
+383,LV Wireless Energy Cover,32383
+384,MV Wireless Energy Cover,32384
+385,HV Wireless Energy Cover,32385
+386,EV Wireless Energy Cover,32386
+387,IV Wireless Energy Cover,32387
+388,LuV Wireless Energy Cover,32388
+389,ZPM Wireless Energy Cover,32389
+390,UV Wireless Energy Cover,32390
+391,UHV Wireless Energy Cover,32391
+392,UEV Wireless Energy Cover,32392
+393,UIV Wireless Energy Cover,32393
+394,UMV Wireless Energy Cover,32394
+395,UXV Wireless Energy Cover,32395
+396,MAX Wireless Energy Cover,32396
+398,Slicer Blade (Flat),32398
+399,Slicer Blade (Stripes),32399
+400,Empty Plastic Fuel Can,32400
+401,Plastic Fuel Can,32401
+402,Empty Spray Can,32402
+404,Empty Thermos Can,32404
+405,Large Steel Fluid Cell,32405
+406,Large Tungstensteel Fluid Cell,32406
+407,Large Aluminium Fluid Cell,32407
+408,Large Stainless Steel Fluid Cell,32408
+409,Large Titanium Fluid Cell,32409
+410,Large Chrome Fluid Cell,32410
+411,Large Iridium Fluid Cell,32411
+412,Large Osmium Fluid Cell,32412
+413,Large Neutronium Fluid Cell,32413
+414,Lump of Electronics,32414
+415,Raw Tesseract,32415
+416,Giga Chad Token,32416
+417,Energised Tesseract,32417
+418,Black Hole Seed,32418
+419,Black Hole Collapser,32419
+420,Superstable Black Hole Seed,32420
+427,Hyper-Stable Self-Healing Adhesive,32427
+428,Superconductor Rare-Earth Composite,32428
+429,Black Body Naquadria Supersolid,32429
+430,Spray Can (Black),32430
+431,Spray Can (Black),32431
+432,Spray Can (Red),32432
+433,Spray Can (Red),32433
+434,Spray Can (Green),32434
+435,Spray Can (Green),32435
+436,Spray Can (Brown),32436
+437,Spray Can (Brown),32437
+438,Spray Can (Blue),32438
+439,Spray Can (Blue),32439
+440,Spray Can (Purple),32440
+441,Spray Can (Purple),32441
+442,Spray Can (Cyan),32442
+443,Spray Can (Cyan),32443
+444,Spray Can (Light Gray),32444
+445,Spray Can (Light Gray),32445
+446,Spray Can (Gray),32446
+447,Spray Can (Gray),32447
+448,Spray Can (Pink),32448
+449,Spray Can (Pink),32449
+450,Spray Can (Lime),32450
+451,Spray Can (Lime),32451
+452,Spray Can (Yellow),32452
+453,Spray Can (Yellow),32453
+454,Spray Can (Light Blue),32454
+455,Spray Can (Light Blue),32455
+456,Spray Can (Magenta),32456
+457,Spray Can (Magenta),32457
+458,Spray Can (Orange),32458
+459,Spray Can (Orange),32459
+460,Spray Can (White),32460
+461,Spray Can (White),32461
+462,Heavy Duty Alloy Ingot T1,32462
+463,Heavy Duty Alloy Ingot T2,32463
+464,Heavy Duty Alloy Ingot T3,32464
+465,Spray Can Solvent,32465
+466,Spray Can Solvent,32466
+467,Empty Spray Can Solvent Canister,32467
+468,Infinite Spray Can,32468
+471,Match,32471
+472,Match Box,32472
+473,Match Box (Full),32473
+474,Lighter (Empty),32474
+475,Lighter,32475
+476,Lighter (Full),32476
+477,Platinum Lighter (Empty),32477
+478,Platinum Lighter,32478
+479,Platinum Lighter (Full),32479
+480,Iridium Alloy Ingot,32480
+481,Printed Pages,32481
+482,Magic Paper,32482
+483,Enchanted Page,32483
+484,Enchanted Pages,32484
+485,Punch Card,32485
+486,Punched Card,32486
+487,Book,32487
+488,Book,32488
+489,Book,32489
+490,Schematic,32490
+491,Schematic (Crafting),32491
+495,Schematic (1x1),32495
+496,Schematic (2x2),32496
+497,Schematic (3x3),32497
+498,Schematic (Dusts),32498
+499,Tantalum Capacitor,32499
+500,Small Battery Hull,32500
+501,Medium Battery Hull,32501
+502,Large Battery Hull,32502
+503,Small Sunnarium Battery (Empty),32503
+504,Medium Sunnarium Battery (Empty),32504
+505,Large Sunnarium Battery (Empty),32505
+506,Medium Naquadria Battery (Empty),32506
+507,Large Naquadria Battery (Empty),32507
+510,Small Acid Battery,32510
+511,Small Mercury Battery,32511
+517,Small Cadmium Battery,32517
+518,Small Lithium Battery,32518
+519,Small Sodium Battery,32519
+520,Medium Acid Battery,32520
+521,Medium Mercury Battery,32521
+527,Medium Cadmium Battery,32527
+528,Medium Lithium Battery,32528
+529,Medium Sodium Battery,32529
+530,Large Acid Battery,32530
+531,Large Mercury Battery,32531
+537,Large Cadmium Battery,32537
+538,Large Lithium Battery,32538
+539,Large Sodium Battery,32539
+540,Small Sunnarium Battery,32540
+545,Medium Sunnarium Battery,32545
+550,Large Sunnarium Battery,32550
+555,Medium Naquadria Battery,32555
+560,Large Naquadria Battery,32560
+561,Small Neutronium Battery (Empty),32561
+562,Medium Neutronium Battery (Empty),32562
+563,Large Neutronium Battery (Empty),32563
+564,Medium Plasma Battery (Empty),32564
+565,Large Plasma Battery (Empty),32565
+570,Small Neutronium Battery,32570
+575,Medium Neutronium Battery,32575
+577,Fluid Storage Monitor Cover,32577
+580,Large Neutronium Battery,32580
+585,Medium Infinity Battery,32585
+590,Large Infinity Battery,32590
+594,Extremely Ultimate Battery,32594
+595,Electric Motor (UEV),32595
+596,Electric Motor (UHV),32596
+597,Lapotronic Energy Orb,32597
+598,Zero Point Module,32598
+599,Lapotronic Energy Orb Cluster,32599
+600,Electric Motor (LV),32600
+601,Electric Motor (MV),32601
+602,Electric Motor (HV),32602
+603,Electric Motor (EV),32603
+604,Electric Motor (IV),32604
+605,Ultimate Battery,32605
+606,Electric Motor (LuV),32606
+607,Electric Motor (ZPM),32607
+608,Electric Motor (UV),32608
+609,Really Ultimate Battery,32609
+610,Electric Pump (LV),32610
+611,Electric Pump (MV),32611
+612,Electric Pump (HV),32612
+613,Electric Pump (EV),32613
+614,Electric Pump (IV),32614
+615,Electric Pump (LuV),32615
+616,Electric Pump (ZPM),32616
+617,Electric Pump (UV),32617
+618,Electric Pump (UHV),32618
+619,Electric Pump (UEV),32619
+620,Steam Valve (LV),32620
+621,Steam Valve (MV),32621
+622,Steam Valve (HV),32622
+623,Steam Valve (EV),32623
+624,Steam Valve (IV),32624
+630,Conveyor Module (LV),32630
+631,Conveyor Module (MV),32631
+632,Conveyor Module (HV),32632
+633,Conveyor Module (EV),32633
+634,Conveyor Module (IV),32634
+635,Conveyor Module (LuV),32635
+636,Conveyor Module (ZPM),32636
+637,Conveyor Module (UV),32637
+638,Conveyor Module (UHV),32638
+639,Conveyor Module (UEV),32639
+640,Electric Piston (LV),32640
+641,Electric Piston (MV),32641
+642,Electric Piston (HV),32642
+643,Electric Piston (EV),32643
+644,Electric Piston (IV),32644
+645,Electric Piston (LuV),32645
+646,Electric Piston (ZPM),32646
+647,Electric Piston (UV),32647
+648,Electric Piston (UHV),32648
+649,Electric Piston (UEV),32649
+650,Robot Arm (LV),32650
+651,Robot Arm (MV),32651
+652,Robot Arm (HV),32652
+653,Robot Arm (EV),32653
+654,Robot Arm (IV),32654
+655,Robot Arm (LuV),32655
+656,Robot Arm (ZPM),32656
+657,Robot Arm (UV),32657
+658,Robot Arm (UHV),32658
+659,Robot Arm (UEV),32659
+660,Fluid Regulator (LV),32660
+661,Fluid Regulator (MV),32661
+662,Fluid Regulator (HV),32662
+663,Fluid Regulator (EV),32663
+664,Fluid Regulator (IV),32664
+665,Fluid Regulator (LuV),32665
+666,Fluid Regulator (ZPM),32666
+667,Fluid Regulator (UV),32667
+668,Living Crystal Chip,32668
+669,Fluid Filter Cover,32669
+670,Field Generator (LV),32670
+671,Field Generator (MV),32671
+672,Field Generator (HV),32672
+673,Field Generator (EV),32673
+674,Field Generator (IV),32674
+675,Field Generator (LuV),32675
+676,Field Generator (ZPM),32676
+677,Field Generator (UV),32677
+678,Field Generator (UHV),32678
+679,Field Generator (UEV),32679
+680,Emitter (LV),32680
+681,Emitter (MV),32681
+682,Emitter (HV),32682
+683,Emitter (EV),32683
+684,Emitter (IV),32684
+685,Emitter (LuV),32685
+686,Emitter (ZPM),32686
+687,Emitter (UV),32687
+688,Emitter (UHV),32688
+689,Emitter (UEV),32689
+690,Sensor (LV),32690
+691,Sensor (MV),32691
+692,Sensor (HV),32692
+693,Sensor (EV),32693
+694,Sensor (IV),32694
+695,Sensor (LuV),32695
+696,Sensor (ZPM),32696
+697,Sensor (UV),32697
+698,Sensor (UHV),32698
+699,Sensor (UEV),32699
+700,Vacuum Tube,32700
+701,Integrated Logic Circuit,32701
+702,Good Electronic Circuit,32702
+703,Processor Assembly,32703
+704,Workstation,32704
+705,Mainframe,32705
+706,Nano Mainframe,32706
+707,Data Orb,32707
+708,Data Stick,32708
+709,Cover Copy/Paste tool,32709
+710,Coated Circuit Board,32710
+711,Epoxy Circuit Board,32711
+712,Multilayer Fiber-Reinforced Circuit Board,32712
+713,Engraved Crystal Chip,32713
+714,Engraved Lapotron Chip,32714
+715,Diode,32715
+716,Resistor,32716
+717,Transistor,32717
+718,Capacitor,32718
+719,Phenolic Circuit Board,32719
+720,Fiber-Reinforced Circuit Board,32720
+721,Diamond Sawblade,32721
+722,Diamond Grinding Head,32722
+723,Tungsten Grinding Head,32723
+724,Quantum Eye,32724
+725,Quantum Star,32725
+726,Gravi Star,32726
+728,Lock Upgrade,32728
+729,Item Filter,32729
+730,Machine Controller Cover,32730
+731,Activity Detector Cover,32731
+732,Fluid Detector Cover,32732
+733,Item Detector Cover,32733
+734,Energy Detector Cover,32734
+735,Player Detector Cover,32735
+736,Energy Module,32736
+737,Energy Cluster,32737
+740,Computer Monitor Cover,32740
+741,Redstone Transmitter (External),32741
+742,Redstone Transmitter (Internal),32742
+744,Crafting Table Cover,32744
+745,Drain Module Cover,32745
+746,Redstone Receiver (External),32746
+747,Redstone Receiver (Internal),32747
+748,Needs Maintenance Cover,32748
+749,Shutter Module Cover,32749
+750,Solar Panel,32750
+751,Solar Panel (8V),32751
+752,Solar Panel (LV),32752
+753,Solar Panel (MV),32753
+754,Solar Panel (HV),32754
+755,Solar Panel (EV),32755
+756,Solar Panel (IV),32756
+757,Solar Panel (LuV),32757
+758,Solar Panel (ZPM),32758
+759,Solar Panel (UV),32759
+761,Debug Scanner,32761
+762,Portable Scanner,32762
+763,GregTech Sensor Kit,32763
+764,BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84,32764
+765,Mc Guffium 239,32765
